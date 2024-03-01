@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm dduniverse</h1>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Data Science**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 - 👨‍💻 All of my projects are available at [https://github.com/dduniverse/](https://github.com/dduniverse/)
 - 📝 I regularly write articles on [https://dduniverse.tistory.com/](https://dduniverse.tistory.com/)
 - 📫 How to reach me suhyunbory@gmail.com
